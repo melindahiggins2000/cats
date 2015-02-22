@@ -2,7 +2,8 @@ Package: cats
 Title: Test R Package With 1 Simple Function
 Version: 0.0.0.9000
 Authors@R: person("Melinda", "Higgins", , "melinda.higgins@emory.edu", role = c("aut", "cre"))
-Description: The cats package is a simple package with 1 function cat_function which can have an argument of TRUE or FALSE.  This is based on the blog posted at http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/ 
+Description: The cats package is a simple package with 1 function cat_function which can have an argument of TRUE or FALSE.  This is based on the blog posted at http://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/
 Depends: R (>= 3.1.2)
 License: What license is it under?
 LazyData: true
+VignetteBuilder: knitr
